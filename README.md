@@ -1,3 +1,3 @@
-# https://github.com/GrushaiNN/GrushaiNN.github.io
+# https://grushainn.github.io/
 ## v0.0.1
 ### Учебный проект по применению регулярных выражений при валидации форм
